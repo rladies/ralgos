@@ -3,8 +3,7 @@ List of Algorithms and Data Structures implementations in R
 
 ## Idea
 
-Implement algorithms and data structures in R
-
+Place to collectively create R implementations of algorithms from scratch
 
 ## Why?
 
@@ -18,3 +17,10 @@ Implement algorithms and data structures in R
 - http://exercism.io/languages/r/exercises
 
 Thank you Heather Turner for the resources! 
+
+
+## Some ideas of algorithms to be included:
+
+- Exponentiation by Squaring
+- Simple Sort (Bubble Sort, Insertion Sort, Merging Sort, ...)
+- Difference of Squares
